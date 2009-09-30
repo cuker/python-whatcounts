@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+__version__ = "1.0"
+
 import csv, logging
 from cStringIO import StringIO
 from urllib import urlencode
