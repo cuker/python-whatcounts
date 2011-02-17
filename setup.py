@@ -11,7 +11,7 @@ setup(
     author = 'Lefora',
     author_email = 'samuel@lefora.com',
     url = 'http://github.com/samuel/python-whatcounts',
-    packages = ['whatcounts'],
+    py_modules = ['whatcounts'],
     classifiers = [
         'Intended Audience :: Developers',
         'Operating System :: OS Independent',
